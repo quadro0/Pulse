@@ -1,7 +1,7 @@
 .promo {
     min-height: 650px;
     padding: 20px 0 95px 0;
-    background: url('../../img/bg/bg.jpg') center center/ cover no-repeat;
+    background: url('../img/bg/bg.jpg') center center/ cover no-repeat;
     &__wrapper {
         margin-top: 91px;
         display: flex;
@@ -37,6 +37,8 @@
         font-size: 14px; 
         color: #FFFFFF;
         img {
+            width: 42px;
+            height: 42px;
             display: block;
             margin: 0 auto;
             margin-bottom: 20px;
